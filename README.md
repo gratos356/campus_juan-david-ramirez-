@@ -21,3 +21,18 @@ else:
 
     #tercer codigo
     
+rint ("Bienenido que quiere comer?: ")
+print ("escriba p: si quiere pasta ")
+print ("escriba t: si quiere tacos")
+print ("escriba ch: si quiere comida china ")
+
+tc= (input("seleccione el tipo de comida"))
+if tc==  "p":
+       print ("le recomendaria ir a un restaurante italiano")
+elif tc== "t":
+       print ("le recomendaria ir a un restaurante mexicano")
+elif tc== "ch":
+       print ("le recomendaria ir a un restaurante chino")
+       
+       #cuarto codigo
+       
