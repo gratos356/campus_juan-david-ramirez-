@@ -36,3 +36,10 @@ elif tc== "ch":
        
        #cuarto codigo
        
+contraseña=int(input("digite su contraseña"))
+print(contraseña)
+
+if contraseña==135246:
+     print("acceso permitido contraseña correcta")
+else:
+     print("acceso denegado contraseña incorrecta")
